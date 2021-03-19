@@ -1,0 +1,25 @@
+{
+  "name": "docoyo-logging",
+  "version": "1.0.0",
+  "description": "Minimal logging library used for colored conole logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Docoyo/logging.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "docoyo GmbH & Co. KG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Docoyo/logging/issues"
+  },
+  "homepage": "https://github.com/Docoyo/logging#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
